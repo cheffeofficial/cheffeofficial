@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max
+- 👋 Hi, I’m Max from South Germany
 - 👀 I’m interested in Salesforce
 - 🌱 I’m currently learning Mulesoft&LWCs
 - 📫 How to reach me: 
